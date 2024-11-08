@@ -1,5 +1,5 @@
 name: OfflineRewardPlugin
-main: com.yourplugin.OfflineRewardPlugin
+main: com.kitnef.OfflineRewardPlugin
 version: 1.0
 api: [3.0.0]
 commands:
