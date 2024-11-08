@@ -1,4 +1,4 @@
-package com.yourplugin;
+package com.kitnef;
 
 import cn.nukkit.event.EventHandler;
 import cn.nukkit.event.Listener;
