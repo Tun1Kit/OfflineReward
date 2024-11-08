@@ -1,6 +1,7 @@
 name: OfflineRewardPlugin
 main: com.kitnef.OfflineRewardPlugin
 version: 1.0
+author: kitnef
 api: [3.0.0]
 commands:
   khodo:
