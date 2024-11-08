@@ -1,0 +1,25 @@
+name: OfflineRewardPlugin
+main: com.kitnef.OfflineRewardPlugin
+version: 1.0
+author: kitnef
+api: [3.0.0]
+commands:
+  khodo:
+    description: Mở kho đồ ảo của bạn
+    usage: /khodo
+permissions:
+  reward.level1:
+    description: Cấp độ 1 quyền để nhận thưởng
+    default: op
+  reward.level2:
+    description: Cấp độ 2 quyền để nhận thưởng
+    default: op
+  reward.level3:
+    description: Cấp độ 3 quyền để nhận thưởng
+    default: op
+  reward.level4:
+    description: Cấp độ 4 quyền để nhận thưởng
+    default: op
+  reward.level5:
+    description: Cấp độ 5 quyền để nhận thưởng
+    default: op
